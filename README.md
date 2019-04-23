@@ -1,6 +1,6 @@
 # Proyecto-HTML5
 
-Pagina web del videojuego Dragon Quest XI
+Pagina web del videojuego Dragon Quest XI. Plantilla Editorial de https://html5up.net/
 
 Contenido:
   1. Paginas Html necesarias (minimo 4).
