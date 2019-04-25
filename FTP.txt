@@ -1,0 +1,3 @@
+Tarea 5: Hosting
+
+Se ha subido la pagina HTML al hosting (en este caso 000webhost) arrastrando los archivos y poniendolos en el directorio que se crea por defecto. 
